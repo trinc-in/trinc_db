@@ -1,0 +1,69 @@
+{
+    "jobs": [
+        {
+            "id": 1,
+            "logo": "./images/backend.png",
+            "apply": true,
+            "position": "Junior Backend Developer",
+            "role": null,
+            "level": null,
+            "postedAt": "04 May, 2024",
+            "contract": "Full-Time",
+            "location": "Remote",
+            "languages": ["Python", "Flask", "Node.js", "Express.js", "Rest APIs", "SQL", "MongoDB"],
+            "tools": ["Python", "Flask", "Node.js", "Express.js", "Rest APIs", "SQL", "MongoDB"]
+        },
+        {
+            "id": 2,
+            "logo": "./images/frontend.png",
+            "apply": true,
+            "position": "Frontend Developer",
+            "role": null,
+            "level": null,
+            "postedAt": "05 May, 2024",
+            "contract": "Full-Time",
+            "location": "On-Site",
+            "languages": ["HTML", "CSS", "JavaScript", "React", "Vue.js"],
+            "tools": ["HTML", "CSS", "JavaScript", "React", "Vue.js"]
+        },
+        {
+            "id": 3,
+            "logo": "./images/data.png",
+            "apply": true,
+            "position": "Data Analyst",
+            "role": null,
+            "level": null,
+            "postedAt": "06 May, 2024",
+            "contract": "Contract",
+            "location": "Remote",
+            "languages": ["Python", "R", "SQL"],
+            "tools": ["Python", "R", "SQL"]
+        },
+        {
+            "id": 4,
+            "logo": "./images/designer.png",
+            "apply": true,
+            "position": "UI/UX Designer",
+            "role": null,
+            "level": null,
+            "postedAt": "07 May, 2024",
+            "contract": "Full-Time",
+            "location": "On-Site",
+            "languages": ["HTML", "CSS", "JavaScript", "Adobe XD", "Sketch", "Figma"],
+            "tools": ["Adobe XD", "Sketch", "Figma"]
+        },
+        {
+            "id": 5,
+            "logo": "./images/devops.png",
+            "apply": true,
+            "position": "DevOps Engineer",
+            "role": null,
+            "level": null,
+            "postedAt": "08 May, 2024",
+            "contract": "Full-Time",
+            "location": "On-Site",
+            "languages": ["Linux", "Docker", "Kubernetes", "AWS", "Azure", "Google Cloud"],
+            "tools": ["Linux", "Docker", "Kubernetes", "AWS", "Azure", "Google Cloud"]
+        }
+    ]
+}
