@@ -9,8 +9,9 @@
       "education": "Master",
       "postedAt": "05 May, 2024",
       "contract": "Part-Time",
+      "location": "Remote",
       "skills": ["Python", "Machine Learning", "SQL", "Statistics"],
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere justo ac mauris pulvinar, eget tincidunt magna lobortis. Suspendisse potenti. Sed sit amet ultrices justo.",
+      "description": "We are seeking a highly skilled Data Scientist to join our team. You will be responsible for analyzing complex datasets, developing machine learning models, and providing valuable insights to drive business decisions.",
       "active": true
     },
     {
@@ -22,8 +23,9 @@
       "education": "Bachelor",
       "postedAt": "05 May, 2024",
       "contract": "Full-Time",
+      "location": "Remote",
       "skills": ["React", "JavaScript", "HTML", "CSS"],
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere justo ac mauris pulvinar, eget tincidunt magna lobortis. Suspendisse potenti. Sed sit amet ultrices justo.",
+      "description": "We are looking for a talented Frontend Engineer to build user-friendly interfaces for our web applications. You will work closely with the design team to implement pixel-perfect designs and ensure smooth user experiences.",
       "active": true
     },
     {
@@ -35,8 +37,9 @@
       "education": "Bachelor",
       "postedAt": "05 May, 2024",
       "contract": "Full-Time",
+      "location": "Remote",
       "skills": ["Node.js", "Express.js", "MongoDB", "RESTful APIs"],
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere justo ac mauris pulvinar, eget tincidunt magna lobortis. Suspendisse potenti. Sed sit amet ultrices justo.",
+      "description": "Join our dynamic team as a Senior Backend Developer and take the lead in building robust and scalable backend systems. You will be responsible for designing and implementing APIs, optimizing database queries, and ensuring high performance and reliability.",
       "active": true
     }
   ]
