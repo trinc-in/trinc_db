@@ -1,100 +1,51 @@
 {
   "jobs": [
     {
-      "id": 3,
-      "position": "Data Scientist",
-      "salary": {
-        "amount": "12,00,000",
-        "currency": "INR",
-        "frequency": "per Year"
-      },
-      "openings": 1,
-      "education": "Master",
-      "postedAt": "05 May, 2024",
-      "contract": "Part-Time",
-      "location": "Remote",
-      "skills": ["Python", "Machine Learning", "SQL", "Statistics"],
-      "description": {
-        "summary": "We are seeking a highly skilled Data Scientist to join our team. You will be responsible for analyzing complex datasets, developing machine learning models, and providing valuable insights to drive business decisions.",
-        "responsibilities": [
-          "Analyze complex datasets",
-          "Develop machine learning models",
-          "Provide valuable insights to drive business decisions"
-        ],
-        "qualifications": [
-          "Master's degree in Computer Science or related field",
-          "Experience with Python, Machine Learning, SQL, and Statistics"
-        ],
-        "niceToHave": [
-          "Experience with deep learning frameworks",
-          "Experience with big data technologies"
-        ]
-      },
-      "active":true
-    },
-    {
-      "id": 2,
-      "position": "Frontend Engineer",
-      "salary": {
-        "amount": "8,00,000",
-        "currency": "INR",
-        "frequency": "per Year"
-      },
-      "openings": 2,
-      "education": "Bachelor",
-      "postedAt": "05 May, 2024",
-      "contract": "Full-Time",
-      "location": "Remote",
-      "skills": ["React", "JavaScript", "HTML", "CSS"],
-      "description": {
-        "summary": "We are looking for a talented Frontend Engineer to build user-friendly interfaces for our web applications. You will work closely with the design team to implement pixel-perfect designs and ensure smooth user experiences.",
-        "responsibilities": [
-          "Build user-friendly interfaces for web applications",
-          "Implement pixel-perfect designs",
-          "Ensure smooth user experiences"
-        ],
-        "qualifications": [
-          "Bachelor's degree in Computer Science or related field",
-          "Experience with React, JavaScript, HTML, and CSS"
-        ],
-        "niceToHave": [
-          "Experience with UX/UI design principles",
-          "Experience with responsive design"
-        ]
-      },
-      "active":true
-    },
-    {
       "id": 1,
-      "position": "Senior Backend Developer",
+      "position": "Junior Backend Developer",
       "salary": {
-        "amount": "10,00,000",
+        "amount": "6,00,000",
         "currency": "INR",
         "frequency": "per Year"
       },
-      "openings": 3,
-      "education": "Bachelor",
+      "openings": 4,
+      "education": "Bachelore",
       "postedAt": "05 May, 2024",
       "contract": "Full-Time",
       "location": "Remote",
-      "skills": ["Node.js", "Express.js", "MongoDB", "RESTful APIs"],
+      "skills": [
+        "Python",
+        "Flask",
+        "Node.js",
+        "SQL",
+        "MongoDB",
+        "Git",
+        "Rest API"
+      ],
       "description": {
-        "summary": "Join our dynamic team as a Senior Backend Developer and take the lead in building robust and scalable backend systems. You will be responsible for designing and implementing APIs, optimizing database queries, and ensuring high performance and reliability.",
+        "summary": "We are looking for a motivated Junior Backend Developer who is passionate about coding and eager to learn. In this role, you will have the opportunity to work on exciting projects, collaborate with a talented team of developers, and gain valuable experience in backend development. If you have a strong foundation in programming and a desire to grow your skills, we want to hear from you!",
         "responsibilities": [
-          "Design and implement APIs",
-          "Optimize database queries",
-          "Ensure high performance and reliability"
+          "Collaborate with senior developers to understand project requirements and translate them into technical specifications.",
+          "Develop and maintain backend systems and applications using industry-standard programming languages and frameworks (e.g., Python, Node.js, Django, Flask).",
+          "Write clean, efficient, and well-documented code that adheres to coding standards and best practices.",
+          "Participate in code reviews to ensure code quality, reliability, and maintainability.",
+          "Troubleshoot and debug backend issues, identify performance bottlenecks, and implement solutions to optimize system performance.",
+          "Work closely with frontend developers to integrate frontend components with backend systems seamlessly.",
+          "Stay updated on emerging technologies, trends, and best practices in backend development to contribute innovative ideas to projects."
         ],
         "qualifications": [
-          "Bachelor's degree in Computer Science or related field",
-          "Experience with Node.js, Express.js, MongoDB, and RESTful APIs"
+          "Bachelor's degree in Computer Science, Engineering, or a related field.",
+          "Strong understanding of backend development concepts and principles.",
+          "Proficiency in at least one backend programming language (e.g., Python, JavaScript) and related frameworks.",
+          "Familiarity with database management systems (e.g., SQL, NoSQL) and ORM libraries.",
+          "Good problem-solving skills and attention to detail.",
+          "Ability to work effectively in a team environment and communicate technical concepts clearly."
         ],
         "niceToHave": [
-          "Experience with microservices architecture",
-          "Experience with Docker and Kubernetes"
+          "Experience with CI/CD"
         ]
       },
-      "active":true
+      "active": true
     }
   ]
 }
