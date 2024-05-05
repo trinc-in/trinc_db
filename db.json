@@ -1,69 +1,43 @@
 {
-    "jobs": [
-        {
-            "id": 1,
-            "logo": "./images/backend.png",
-            "apply": true,
-            "position": "Junior Backend Developer",
-            "role": null,
-            "level": null,
-            "postedAt": "04 May, 2024",
-            "contract": "Full-Time",
-            "location": "Remote",
-            "languages": ["Python", "Flask", "Node.js", "Express.js", "Rest APIs", "SQL", "MongoDB"],
-            "tools": ["Python", "Flask", "Node.js", "Express.js", "Rest APIs", "SQL", "MongoDB"]
-        },
-        {
-            "id": 2,
-            "logo": "./images/frontend.png",
-            "apply": true,
-            "position": "Frontend Developer",
-            "role": null,
-            "level": null,
-            "postedAt": "05 May, 2024",
-            "contract": "Full-Time",
-            "location": "On-Site",
-            "languages": ["HTML", "CSS", "JavaScript", "React", "Vue.js"],
-            "tools": ["HTML", "CSS", "JavaScript", "React", "Vue.js"]
-        },
-        {
-            "id": 3,
-            "logo": "./images/data.png",
-            "apply": true,
-            "position": "Data Analyst",
-            "role": null,
-            "level": null,
-            "postedAt": "06 May, 2024",
-            "contract": "Contract",
-            "location": "Remote",
-            "languages": ["Python", "R", "SQL"],
-            "tools": ["Python", "R", "SQL"]
-        },
-        {
-            "id": 4,
-            "logo": "./images/designer.png",
-            "apply": true,
-            "position": "UI/UX Designer",
-            "role": null,
-            "level": null,
-            "postedAt": "07 May, 2024",
-            "contract": "Full-Time",
-            "location": "On-Site",
-            "languages": ["HTML", "CSS", "JavaScript", "Adobe XD", "Sketch", "Figma"],
-            "tools": ["Adobe XD", "Sketch", "Figma"]
-        },
-        {
-            "id": 5,
-            "logo": "./images/devops.png",
-            "apply": true,
-            "position": "DevOps Engineer",
-            "role": null,
-            "level": null,
-            "postedAt": "08 May, 2024",
-            "contract": "Full-Time",
-            "location": "On-Site",
-            "languages": ["Linux", "Docker", "Kubernetes", "AWS", "Azure", "Google Cloud"],
-            "tools": ["Linux", "Docker", "Kubernetes", "AWS", "Azure", "Google Cloud"]
-        }
-    ]
+  "jobs": [
+    {
+      "id": 3,
+      "position": "Data Scientist",
+      "salary": "1,200,000",
+      "duration": "per Month",
+      "openings": "1",
+      "education": "Master",
+      "postedAt": "05 May, 2024",
+      "contract": "Part-Time",
+      "skills": ["Python", "Machine Learning", "SQL", "Statistics"],
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere justo ac mauris pulvinar, eget tincidunt magna lobortis. Suspendisse potenti. Sed sit amet ultrices justo.",
+      "active": true
+    },
+    {
+      "id": 2,
+      "position": "Frontend Engineer",
+      "salary": "800,000",
+      "duration": "per Year",
+      "openings": "2",
+      "education": "Bachelor",
+      "postedAt": "05 May, 2024",
+      "contract": "Full-Time",
+      "skills": ["React", "JavaScript", "HTML", "CSS"],
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere justo ac mauris pulvinar, eget tincidunt magna lobortis. Suspendisse potenti. Sed sit amet ultrices justo.",
+      "active": true
+    },
+    {
+      "id": 1,
+      "position": "Senior Backend Developer",
+      "salary": "1,000,000",
+      "duration": "per Month",
+      "openings": "3",
+      "education": "Bachelor",
+      "postedAt": "05 May, 2024",
+      "contract": "Full-Time",
+      "skills": ["Node.js", "Express.js", "MongoDB", "RESTful APIs"],
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere justo ac mauris pulvinar, eget tincidunt magna lobortis. Suspendisse potenti. Sed sit amet ultrices justo.",
+      "active": true
+    }
+  ]
 }
