@@ -3,44 +3,95 @@
     {
       "id": 3,
       "position": "Data Scientist",
-      "salary": "1,200,000",
-      "duration": "per Month",
-      "openings": "1",
+      "salary": {
+        "amount": "12,00,000",
+        "currency": "INR",
+        "frequency": "per Year"
+      },
+      "openings": 1,
       "education": "Master",
       "postedAt": "05 May, 2024",
       "contract": "Part-Time",
       "location": "Remote",
       "skills": ["Python", "Machine Learning", "SQL", "Statistics"],
-      "description": "We are seeking a highly skilled Data Scientist to join our team. You will be responsible for analyzing complex datasets, developing machine learning models, and providing valuable insights to drive business decisions.",
-      "active": true
+      "description": {
+        "summary": "We are seeking a highly skilled Data Scientist to join our team. You will be responsible for analyzing complex datasets, developing machine learning models, and providing valuable insights to drive business decisions.",
+        "responsibilities": [
+          "Analyze complex datasets",
+          "Develop machine learning models",
+          "Provide valuable insights to drive business decisions"
+        ],
+        "qualifications": [
+          "Master's degree in Computer Science or related field",
+          "Experience with Python, Machine Learning, SQL, and Statistics"
+        ],
+        "niceToHave": [
+          "Experience with deep learning frameworks",
+          "Experience with big data technologies"
+        ]
+      }
     },
     {
       "id": 2,
       "position": "Frontend Engineer",
-      "salary": "800,000",
-      "duration": "per Year",
-      "openings": "2",
+      "salary": {
+        "amount": "8,00,000",
+        "currency": "INR",
+        "frequency": "per Year"
+      },
+      "openings": 2,
       "education": "Bachelor",
       "postedAt": "05 May, 2024",
       "contract": "Full-Time",
       "location": "Remote",
       "skills": ["React", "JavaScript", "HTML", "CSS"],
-      "description": "We are looking for a talented Frontend Engineer to build user-friendly interfaces for our web applications. You will work closely with the design team to implement pixel-perfect designs and ensure smooth user experiences.",
-      "active": true
+      "description": {
+        "summary": "We are looking for a talented Frontend Engineer to build user-friendly interfaces for our web applications. You will work closely with the design team to implement pixel-perfect designs and ensure smooth user experiences.",
+        "responsibilities": [
+          "Build user-friendly interfaces for web applications",
+          "Implement pixel-perfect designs",
+          "Ensure smooth user experiences"
+        ],
+        "qualifications": [
+          "Bachelor's degree in Computer Science or related field",
+          "Experience with React, JavaScript, HTML, and CSS"
+        ],
+        "niceToHave": [
+          "Experience with UX/UI design principles",
+          "Experience with responsive design"
+        ]
+      }
     },
     {
       "id": 1,
       "position": "Senior Backend Developer",
-      "salary": "1,000,000",
-      "duration": "per Month",
-      "openings": "3",
+      "salary": {
+        "amount": "10,00,000",
+        "currency": "INR",
+        "frequency": "per Year"
+      },
+      "openings": 3,
       "education": "Bachelor",
       "postedAt": "05 May, 2024",
       "contract": "Full-Time",
       "location": "Remote",
       "skills": ["Node.js", "Express.js", "MongoDB", "RESTful APIs"],
-      "description": "Join our dynamic team as a Senior Backend Developer and take the lead in building robust and scalable backend systems. You will be responsible for designing and implementing APIs, optimizing database queries, and ensuring high performance and reliability.",
-      "active": true
+      "description": {
+        "summary": "Join our dynamic team as a Senior Backend Developer and take the lead in building robust and scalable backend systems. You will be responsible for designing and implementing APIs, optimizing database queries, and ensuring high performance and reliability.",
+        "responsibilities": [
+          "Design and implement APIs",
+          "Optimize database queries",
+          "Ensure high performance and reliability"
+        ],
+        "qualifications": [
+          "Bachelor's degree in Computer Science or related field",
+          "Experience with Node.js, Express.js, MongoDB, and RESTful APIs"
+        ],
+        "niceToHave": [
+          "Experience with microservices architecture",
+          "Experience with Docker and Kubernetes"
+        ]
+      }
     }
   ]
 }
