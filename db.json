@@ -1,4 +1,51 @@
 {
   "jobs": [
+    {
+      "id": 1,
+      "position": "Junior Backend Developer",
+      "salary": {
+        "amount": "6,00,000",
+        "currency": "INR",
+        "frequency": "per Year"
+      },
+      "openings": 4,
+      "education": "Bachelore",
+      "postedAt": "05 May, 2024",
+      "contract": "Full-Time",
+      "location": "Remote",
+      "skills": [
+        "Python",
+        "Flask",
+        "Node.js",
+        "SQL",
+        "MongoDB",
+        "Git",
+        "Rest API"
+      ],
+      "description": {
+        "summary": "We are looking for a motivated Junior Backend Developer who is passionate about coding and eager to learn. In this role, you will have the opportunity to work on exciting projects, collaborate with a talented team of developers, and gain valuable experience in backend development. If you have a strong foundation in programming and a desire to grow your skills, we want to hear from you!",
+        "responsibilities": [
+          "Collaborate with senior developers to understand project requirements and translate them into technical specifications.",
+          "Develop and maintain backend systems and applications using industry-standard programming languages and frameworks (e.g., Python, Node.js, Django, Flask).",
+          "Write clean, efficient, and well-documented code that adheres to coding standards and best practices.",
+          "Participate in code reviews to ensure code quality, reliability, and maintainability.",
+          "Troubleshoot and debug backend issues, identify performance bottlenecks, and implement solutions to optimize system performance.",
+          "Work closely with frontend developers to integrate frontend components with backend systems seamlessly.",
+          "Stay updated on emerging technologies, trends, and best practices in backend development to contribute innovative ideas to projects."
+        ],
+        "qualifications": [
+          "Bachelor's degree in Computer Science, Engineering, or a related field.",
+          "Strong understanding of backend development concepts and principles.",
+          "Proficiency in at least one backend programming language (e.g., Python, JavaScript) and related frameworks.",
+          "Familiarity with database management systems (e.g., SQL, NoSQL) and ORM libraries.",
+          "Good problem-solving skills and attention to detail.",
+          "Ability to work effectively in a team environment and communicate technical concepts clearly."
+        ],
+        "niceToHave": [
+          "Experience with CI/CD"
+        ]
+      },
+      "active": true
+    }
   ]
 }
